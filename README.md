@@ -4,13 +4,13 @@ This app is a simple version of the famous Tower of Hanoi game. The app is imple
 ## Getting Started
 **Mac OS**
 <p>
-<pre> <code>open index/index.html
+<pre> <code>open html/index.html
 </code></pre>
 </p>
 
 **Other OS**
 <p>
-double click the index.html file under index folder to open.
+double click the index.html file under the html folder to open.
 </p>
 
 ## Disclaimer
